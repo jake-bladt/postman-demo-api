@@ -3,7 +3,7 @@
     "username": "postgres",
     "password": null,
     "database": "postman_dev",
-    "host": "localhost",
+    "host": "li1036-52.members.linode.com",
     "port": 5432,
     "dialect": "postgres"
   },
@@ -11,7 +11,7 @@
     "username": "postgres",
     "password": null,
     "database": "postman_test",
-    "host": "localhost",
+    "host": "li1036-52.members.linode.com",
     "port": 5432,
     "dialect": "postgres"
   }
